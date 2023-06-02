@@ -1,0 +1,16 @@
+A full-stack Flask e-commerce site typically consists of the following pages:
+
+Home Page: The landing page of the e-commerce site, providing an overview and showcasing featured products or promotions.
+Product Listing Page: A page that displays a list of products available for purchase, often categorized and with search/filter options.
+Product Detail Page: A page that provides detailed information about a specific product, including images, description, price, and add to cart option.
+Shopping Cart Page: A page that shows the items added to the cart, allows users to update quantities, remove items, and proceed to checkout.
+Checkout Page: A page where users can enter shipping and payment information to complete the purchase.
+Order Confirmation Page: A page that confirms the successful completion of the order, providing order details and a thank you message.
+User Registration Page: A page where new users can create an account by providing necessary information.
+User Login Page: A page where registered users can log in to access their account and view order history.
+User Profile Page: A page where users can manage their account details, update personal information, and view/edit saved addresses.
+Order History Page: A page that shows the user's past orders, including order details and status.
+Admin Dashboard: A secure area where administrators can manage products, categories, inventory, orders, and user accounts.
+Admin Product Management: A page where administrators can add, edit, or delete products, manage inventory, and set pricing.
+Admin Order Management: A page where administrators can view and manage orders, update order status, and generate reports.
+Admin User Management: A page where administrators can manage user accounts, including user roles, permissions, and account details.
