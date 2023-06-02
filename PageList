@@ -14,3 +14,54 @@ Admin Dashboard: A secure area where administrators can manage products, categor
 Admin Product Management: A page where administrators can add, edit, or delete products, manage inventory, and set pricing.
 Admin Order Management: A page where administrators can view and manage orders, update order status, and generate reports.
 Admin User Management: A page where administrators can manage user accounts, including user roles, permissions, and account details.
+
+Homepage
+
+app.py (handles the route for the homepage)
+Product Listing
+
+app.py (handles the route for displaying products)
+product.py (contains models and functions for managing products)
+Product Details
+
+app.py (handles the route for displaying individual product details)
+Shopping Cart
+
+app.py (handles the route for managing the shopping cart)
+cart.py (contains models and functions for managing the cart)
+Checkout
+
+app.py (handles the route for the checkout process)
+checkout.py (contains models and functions for processing the order)
+User Registration
+
+app.py (handles the route for user registration)
+user.py (contains models and functions for managing user accounts)
+User Login
+
+app.py (handles the route for user login)
+User Profile
+
+app.py (handles the route for displaying user profile information)
+Order History
+
+app.py (handles the route for displaying order history)
+Admin Dashboard
+
+app.py (handles the route for the admin dashboard)
+admin.py (contains models and functions for managing administrative tasks)
+API Endpoints
+
+api.py (contains API routes for interacting with the e-commerce site)
+These are just some of the common pages you may have in an e-commerce site. Depending on your project requirements, you can customize and add more pages as needed.
+
+In addition to the pages, you'll also have a templates folder containing HTML templates for each page, and a static folder for CSS, JavaScript, and other static assets.
+
+Make sure to structure your Flask application accordingly and organize your code in separate files for better maintainability and readability.
+
+
+
+
+
+
+Regenerate response
